@@ -1,0 +1,33 @@
+; Placefile created and copyrighted by Brian Hirsch
+; Data is obtained from the Missouri Climate Center
+;
+Title: Missouri Mesonet Stations
+RefreshSeconds: 150
+Font: 1, 20, 1, "Arial"
+Font: 2, 12, 1, "Arial"
+Threshold: 999
+Color: 247 79 99
+Text: 40.241061 ,-94.343492, 2, "49.9 F", "Station: Albany\nTeperature: 49.9 F\nDewpoint: 46.9 F\nWind Speed: 3.8 mph\nWind Direction: NE\nPressure: 30.21 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 39.412667 ,-93.1965, 2, "51.5 F", "Station: Brunswick\nTeperature: 51.5 F\nDewpoint: 49.4 F\nWind Speed: 9.4 mph\nWind Direction: ENE\nPressure: 30.15 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 38.25191 ,-94.343547, 2, "47.9 F", "Station: Butler\nTeperature: 47.9 F\nDewpoint: 46.6 F\nWind Speed: 7.3 mph\nWind Direction: NE\nPressure: 30.06 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 36.490581 ,-89.961744, 2, "54.7 F", "Station: Clarkton\nTeperature: 54.7 F\nDewpoint: 53.0 F\nWind Speed: 7.9 mph\nWind Direction: NNE\nPressure: 30.11 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 38.897236 ,-92.21807, 2, "48.1 F", "Station: Bradford Farm\nTeperature: 48.1 F\nDewpoint: 46.9 F\nWind Speed: 10.8 mph\nWind Direction: NE\nPressure: 30.15 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 38.929237 ,-92.321297, 2, "50.2 F", "Station: Capen Park\nTeperature: 50.2 F\nDewpoint: 50.1 F\nWind Speed: Calm\nWind Direction: E\nLast Updated: 2016/05/17 13:23"
+Text: 38.906992 ,-92.269976, 2, "48.8 F", "Station: Jefferson Farm\nTeperature: 48.8 F\nDewpoint: 46.7 F\nWind Speed: 8.0 mph\nWind Direction: NE\nLast Updated: 2016/05/17 13:23"
+Text: 38.942301 ,-92.320395, 2, "49.1 F", "Station: Sanborn Field\nTeperature: 49.1 F\nDewpoint: 47.8 F\nWind Speed: 5.7 mph\nWind Direction: ENE\nPressure: 30.17 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 37.797945 ,-91.429645, 2, "48.5 F", "Station: Cook Station\nTeperature: 48.5 F\nDewpoint: 46.6 F\nWind Speed: 2.5 mph\nWind Direction: NE\nPressure: 30.13 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 38.621147 ,-93.416652, 2, "48.1 F", "Station: Green Ridge\nTeperature: 48.1 F\nDewpoint: 48.1 F\nWind Speed: 7.6 mph\nWind Direction: ENE\nPressure: 30.09 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 36.395972 ,-89.614473, 2, "53.8 F", "Station: Hayward\nTeperature: 53.8 F\nDewpoint: 52.3 F\nWind Speed: 7.9 mph\nWind Direction: ENE\nPressure: 30.06 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 37.493366 ,-94.318185, 2, "48.9 F", "Station: Lamar\nTeperature: 48.9 F\nDewpoint: 48.0 F\nWind Speed: 13.1 mph\nWind Direction: ENE\nPressure: 30.00 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 39.856919 ,-93.149726, 2, "51.0 F", "Station: Linneus\nTeperature: 51.0 F\nDewpoint: 47.5 F\nWind Speed: 6.0 mph\nWind Direction: ENE\nLast Updated: 2016/05/17 13:23"
+Text: 39.635314 ,-91.72537, 2, "49.8 F", "Station: Monroe City\nTeperature: 49.8 F\nDewpoint: 47.8 F\nWind Speed: 8.6 mph\nWind Direction: E\nPressure: 30.22 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 38.938757 ,-90.931742, 2, "48.5 F", "Station: Moscow Mills\nTeperature: 48.5 F\nDewpoint: 47.9 F\nWind Speed: 4.4 mph\nWind Direction: E\nPressure: 30.18 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 37.153865 ,-92.268831, 2, "50.8 F", "Station: Mountain Grove\nTeperature: 50.8 F\nDewpoint: 49.5 F\nWind Speed: 5.6 mph\nWind Direction: ESE\nPressure: 30.10 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 37.077 ,-93.879, 2, "53.4 F", "Station: Mount Vernon\nTeperature: 53.4 F\nDewpoint: 53.2 F\nWind Speed: 5.0 mph\nWind Direction: ENE\nPressure: 30.00 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 40.018917 ,-92.190781, 2, "50.2 F", "Station: Novelty\nTeperature: 50.2 F\nDewpoint: 48.5 F\nWind Speed: 8.5 mph\nWind Direction: ENE\nPressure: 30.18 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 36.413728 ,-89.69996, 2, "54.9 F", "Station: Portageville\nTeperature: 54.9 F\nDewpoint: 52.6 F\nWind Speed: 6.9 mph\nWind Direction: ENE\nLast Updated: 2016/05/17 13:23"
+Text: 39.757821 ,-94.794567, 2, "50.4 F", "Station: St. Joseph\nTeperature: 50.4 F\nDewpoint: 50.2 F\nWind Speed: 5.9 mph\nWind Direction: NE\nLast Updated: 2016/05/17 13:23"
+Text: 39.3023 ,-91.513, 2, "48.8 F", "Station: Vandalia\nTeperature: 48.8 F\nDewpoint: 48.8 F\nWind Speed: 7.7 mph\nWind Direction: ENE\nPressure: 30.23 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 38.4347 ,-92.853733, 2, "47.8 F", "Station: Versailles\nTeperature: 47.8 F\nDewpoint: 47.5 F\nWind Speed: 4.7 mph\nWind Direction: E\nPressure: 30.13 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 40.466591 ,-93.002819, 2, "49.5 F", "Station: Unionville\nTeperature: 49.5 F\nDewpoint: 48.2 F\nWind Speed: 4.4 mph\nWind Direction: E\nPressure: 30.15 in/Hg\nLast Updated: 2016/05/17 13:23"
+Text: 38.90735 ,-91.734217, 2, "47.5 F", "Station: Williamsburg\nTeperature: 47.5 F\nDewpoint: 46.5 F\nWind Speed: 11.2 mph\nWind Direction: ENE\nPressure: 30.17 in/Hg\nLast Updated: 2016/05/17 13:23"
